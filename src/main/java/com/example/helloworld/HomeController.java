@@ -20,5 +20,5 @@ public class HomeController {
     public void doSomething(){
             name = "anna changed";
     }
-// Changes are made and Jenkins is working! :-)    
+// Changes are made and Jenkins is working! :-)
 }
